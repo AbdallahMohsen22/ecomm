@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774721152138",
+    "project_id": "ecomm-c45a1",
+    "storage_bucket": "ecomm-c45a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774721152138:android:30f45395fea5a60880b973",
+        "android_client_info": {
+          "package_name": "com.devetechno.ecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcbCWOfyCyG6ZWV21TYB1DSKHLZigpCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

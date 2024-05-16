@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/drawable_splash.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/drawable/splash.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/xml_network_security_config.xml.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/raw_notification.mp3.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/raw/notification.mp3"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/drawable_launch_background.xml.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devetechno.ecomm.app-merged_res-50:/drawable_notification_icon.png.flat",
+        "source": "com.devetechno.ecomm.app-main-43:/drawable/notification_icon.png"
+    }
+]
