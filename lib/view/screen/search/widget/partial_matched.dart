@@ -37,6 +37,7 @@ class _SearchSuggestionState extends State<SearchSuggestion> {
                     }
                   },
 
+
                   optionsViewBuilder: (context, Function(String) onSelected, options) {
                     return Material(
                       elevation: 0,
